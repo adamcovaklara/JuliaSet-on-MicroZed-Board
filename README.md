@@ -1,5 +1,5 @@
 # JuliaSet-on-MicroZed-Board
-Source codes related to computing and rendering JuliaSet on MicroZed Board.
+Source codes related to computing and rendering JuliaSet on MicroZed Board in RGB565 format.
 
 -----
 Functionality: 
