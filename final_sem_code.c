@@ -6,7 +6,7 @@ Functionalities:
 - to zoom in push the red button, to zoom out the green button (functionality isnt supported in gallery mode)
 - to activate the gallery mode, which changes periodically (every 2 seconds) the real and imaginary part of constant used for calculation, press the blue button
 
- final_sem_code.c		- main and only file
+ final_sem_code.c		- main file
 
  (C) Copyright 2018 by Klara Pacalova
 	  e-mail: pacalkla@fel.cvut.cz
